@@ -17,3 +17,4 @@
 - [x] 로컬 호스트 환경
 - [x] 서버 환경에서 실행
 - [x] 현재 스크립트 리디렉션 uri - http://www.tagmark.kr/profile.html
+- [x] velog 링크 - https://velog.io/@bugrice/MWU-Week17-%EA%B3%B5%EB%B6%80-%EC%9A%94%EC%95%BD
